@@ -1,5 +1,7 @@
 # Hi, I'm Yael Ruiz :wave: :technologist:
 
+![Cover Yael Ruiz](cover.png)
+
 
 I'am Full Stack Developer and online teacher, I am interested in business and medical software. I have more than 5 years of experience in both disciplines.
 
