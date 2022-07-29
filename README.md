@@ -40,7 +40,6 @@ I'am Full Stack Developer and online teacher, I am interested in business and me
 ## Github Stats :chart_with_upwards_trend:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=yaelmo21&show_icons=true&theme=tokyonight">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelmo21&show_icons=true&theme=tokyonight">
 <!--
 **yaelmo21/yaelmo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
