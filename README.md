@@ -1,9 +1,32 @@
-# Hi, I'm Yael Ruiz :wave: :technologist:
+# 💻 Yael Ruiz Pucheta - Senior Full Stack Developer 🚀
 
-![Cover Yael Ruiz](cover.jpg)
+Welcome to my project repository! I'm Yael Ruiz Pucheta, a passionate **Full Stack Developer** with over 7 years of experience building scalable and efficient web and mobile solutions. My approach is simple: blend technology with digital marketing to take every project to the next level. 🎯
 
+## 🚀 About Me
 
-I'am Full Stack Developer and online teacher, I am interested in business and medical software. I have more than 5 years of experience in both disciplines.
+- **Specialties**: React, Next.js, Node.js, AWS, PostgreSQL, Docker, and much more.
+- **Experience**: I've worked on large-scale projects in **finance**, **healthcare**, and **retail** sectors.
+- **Passion**: In addition to coding, I love teaching and mentoring the next generation of developers.
+
+## 🚧 Featured Projects
+
+### 📅 Teleimagenología (Co-Founder)
+A medical platform focused on managing medical reports and imaging studies. Architecture based on microservices, with infrastructure support on Google Cloud and Azure.
+
+### 🔧 CEDISA (Full Stack Freelance)
+Led the full development of web applications, implementing SSR with Next.js to optimize performance and SEO.
+
+### 🛠️ Baufest (Senior Full Stack Developer)
+Defined the structure and technology stack, enabling rapid microservices scaling with a focus on close collaboration with clients.
+
+## 🌱 Lifelong Learner
+
+- **Digital Marketing**: Currently completing my Master's in Digital Marketing to understand how to grow applications beyond the technical side.
+- **Certifications**: Microsoft Azure AZ-900.
+
+## 🎯 Vision
+
+I’m passionate about turning ideas into reality. If you're interested in collaborating on a project, discussing new technologies, or just sharing a cup of coffee, feel free to reach out.
 
 
 
